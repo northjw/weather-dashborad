@@ -1,15 +1,11 @@
 ## weather-forecaster
 
-  <h3>Project Name</h3>
+  ##Project Name
    Weather Forcaster
    <br />
 
-<h3> Description </h3>
 
-<br />
-
-
-<h3> Table of Contents </h3>
+## Table of Contents 
 
 - [Description](#description)<br />
 - [Usage](#usage)<br />
@@ -19,22 +15,23 @@
 - [Questions](#questions)<br />
 
 
-<h3>Description</h3>
+## Description
     A weather forecast app that allows the user to search for weather conditions currently in any city. It also shows the next 5 day forecast.
- <h3> Usage</h3>
+ ## Usage
     For anyone who wants to check the weather.
-  <h3> License</h3>
+  ## License
   This application is covered by the MIT license;
+
   ![badge](https://img.shields.io/badge/license-MIT-green)
   
-  <h3> Contributors</h3>
-  Me, Myself, and I
+  ## Contributors
+  Me, Myself, and I.
  
-
+<img src="image/weather-forcaster-screngrab.png" width="50%">
 
   <br />
 
- <h3> Questions </h3> 
+ ## Questions  
  GitHub: [Northjw](https://github.com/Northjw) <br />
 <br />
  For any questions about this project please contact: northjw1@gmail.com <br /><br />
