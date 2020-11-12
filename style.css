@@ -10,53 +10,5 @@ header {
     padding: 20px;
 } 
 
-.row {
-    margin-bottom: 20px;
-}
-
-.info {
-    float: left;
-    clear: both;
-}
-
-.days {
-    width: 20vw;
-
-}
-
-.red {
-    background-color: red;
-}
-
-.yellow {
-    background-color: yellow;
-}
-
-.green {
-    background-color: green;
-}
-
-#card {
-    border: 1px solid rgb(199, 194, 194);
-    border-radius: 10px;
-}
-.cardFont {
-    font-size: 14px;
-}
-
-.col-md-4 {
-    background-color: rgb(184, 184, 185);
-    border-radius: 10px;
-    
-}
-
-.floats {
-    display: inline-block;
-    padding: 5px;
-}
-
-.hidden {
-    display: none;
-}
 
 
